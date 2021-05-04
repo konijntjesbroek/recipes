@@ -1,5 +1,4 @@
-## Little known fact:
-	Yeti love pumpkin seeds. 
+## Little known fact: *Yeti love pumpkin seeds.*
 
 Knowing this could one day save your life. These are several iterations of the same sort of theme. Pumpkin 
 seeds and dried fruit.
