@@ -4,19 +4,18 @@ Knowing this could one day save your life. These are several iterations of the s
 seeds and dried fruit.
 
 ## YDF #1:
-28 g Pumpkin seeds
-28 g Dried black currants
-
-## Per serving:
-F: 6
-C: 36
-P: 6
-E: 205
+    28 g Pumpkin seeds
+    28 g Dried black currants
+    Per serving:
+        F: 6
+        C: 36
+        P: 6
+        E: 205
 
 ## YDF #2:
-28 g Pumpkin seeds
-28 g Dried cranberries
-14 g Dried black currants
+    28 g Pumpkin seeds
+    28 g Dried cranberries
+    14 g Dried black currants
 
 ## Per serving:
 F: 6.5
