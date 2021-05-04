@@ -6,6 +6,7 @@ seeds and dried fruit.
 ## YDF #1:
     28 g Pumpkin seeds
     28 g Dried black currants
+    
     Per serving:
         F: 6
         C: 36
@@ -16,22 +17,22 @@ seeds and dried fruit.
     28 g Pumpkin seeds
     28 g Dried cranberries
     14 g Dried black currants
-
-## Per serving:
-F: 6.5
-C: 46
-P: 5.5
-E: 242.5
+    
+    Per serving:
+        F: 6.5
+        C: 46
+        P: 5.5
+        E: 242.5
 
 ## YDF #3:
-28 g Pumpkin seeds
-28 g Dried cranberries
-14 g Dried black currants
-14 g Fine shred coconut
-14 g Rolled oat
-
-## Per serving:
-F: 16.5
-C: 59
-P: 8.5
-E: 393.5
+    28 g Pumpkin seeds
+    28 g Dried cranberries
+    14 g Dried black currants
+    14 g Fine shred coconut
+    14 g Rolled oat
+    
+    Per serving:
+        F: 16.5
+        C: 59
+        P: 8.5
+        E: 393.5
