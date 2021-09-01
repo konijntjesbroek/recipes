@@ -1,6 +1,6 @@
 ## Yeti Defense Food
-_created by_: Arlo Gittings
-_created on_: Who knows, this stuff has benn brewin' for over a decade
+_created by_: Arlo Gittings  
+_created on_: Who knows, this stuff has benn brewin' for over a decade  
 _last modified_: 2021-09-01
 
 ----
@@ -8,12 +8,14 @@ _last modified_: 2021-09-01
 ### The Deep Magics
 
 ----
+
 > Little known fact: _Yeti **love** pumpkin seeds._ Knowing this could one day 
 > save your life.
 >
 > _-- Unpossible?! You meant done. Deep 4th Shift Lore_
 
 ----
+
 I have been many things in my life, but for the vast majority of it I spent in
 various capacities as an internet technician/engineer/technical manager of some
 sort. I also tend to avoid normal work schedules and the politics an rigamaroll
