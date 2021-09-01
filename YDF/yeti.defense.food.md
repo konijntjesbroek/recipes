@@ -10,6 +10,7 @@ _last modified_: 2021-09-01
 ----
 > Little known fact: _Yeti **love** pumpkin seeds._ Knowing this could one day 
 > save your life.
+>
 > _-- Unpossible?! You meant done. Deep 4th Shift Lore_
 
 ----
@@ -90,7 +91,7 @@ fruit. Some I am a huge fan of others not so much. Some were created for a
 special set of circumstances, some becuase I found a name I wanted to use and
 designed a thematically appropriate YDF around it.
 
-=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
+----
 
 ### The Recipes
 
