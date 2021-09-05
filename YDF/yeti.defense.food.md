@@ -95,6 +95,72 @@ designed a thematically appropriate YDF around it.
 
 ----
 
+### The Methods
+
+The vast majority of these are assembled by simply dumping the components into
+a vessle and mixing. I prefer to not make a large amount in advance, but if you
+do I strongly suggest that you keep the seeds separate from the fruit. The 
+moisture from the fruit will tend to be pulled into seeds causing a mushy mix
+the longer they are in contact with each other 
+
+#### Measuring
+
+In the recipes, I use part measurments. The base 'serving size' which I use to
+list the nutritional value is for the part. If for example I give a serving
+size of 28g, that means that 1 part is equal to 28g, and any other measurement
+is a multiple of that so if a recipe has 1 part ingredient a and 2 parts of
+ingredient b with a serving size of 20g, the total weight for a single serving
+would be 60g. This is to save on having to do division from the final product.
+The sole exception to this is any spices that are added. Because the amount of
+spice is so miniscule compared to weight of other ingredients, they will be 
+given separately. 
+
+#### Pumpkin Seeds
+
+I use hulled, raw pumpkin seeds unless otherwise noted. Later on I might get
+into the production, harvest and hulling of these, as I want to be able to 
+create my own supply and test out the flavor differences between varieties of
+pumpkins. But for now, I use bulk, allergen free suppliers on the internet, of
+which there are too many to mention here. 
+
+#### Dried Fruit
+
+I prefer non-sulfured, organic, unsweetened fruit for my mixes. These tend to
+have a better flavor in my opinion and mix better with the seeds. The biggest
+exception to this is cranberries. I find unsweetened dried cranberries tough to
+put down, in this case I look for ones that use apple or grape juice as a 
+sweetener. The organic, unsweetened fruits will be a bit more costly than their
+conventional counterparts, but I look for smaller, sustainable outfits that can
+supply me to avoid a lot of the mass economy chain. If possible, locally grown,
+bought in season and dried at home is ideal, but not really needed. as many
+responsible growers and drehydration specialists provide allergen free product.
+
+Many of the recipes do not specify a particular fruit. They will simply call 
+for a mixture of sweet or sour fruit.
+
+##### Sweet Fruit:
+- Black Currant
+- Raisins or Zante Currant
+- Prunes
+- Peaches
+- Apples
+- Pears
+- Apricots
+- Blueberries
+- Strawberries
+- Pineapple
+
+##### Sour Fruit:
+- Cranberries
+- Tart Cherries
+- Pineapple
+
+If I prep the fruit, I will dice it into very small cubes (1/8", 2-3mm), this
+allows them to mix well with the seeds and provide a more uniform flavor
+profile. If I am in a rush, I will just toss them in as is and deal with it.
+
+#### Grains
+
 ### The Recipes
 
 #### YDF #1:
