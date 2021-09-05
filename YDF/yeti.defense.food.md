@@ -97,11 +97,11 @@ designed a thematically appropriate YDF around it.
 
 ### The Methods
 
-The vast majority of these are assembled by simply dumping the components into
-a vessle and mixing. I prefer to not make a large amount in advance, but if you
-do I strongly suggest that you keep the seeds separate from the fruit. The 
-moisture from the fruit will tend to be pulled into seeds causing a mushy mix
-the longer they are in contact with each other 
+The methods I use in the preparation of YDF are meant to be as simple as I can
+make them. You never know when you will need to mix a batch, them yeti are 
+crafty and if you are stuck out on a trail for an extended period, It might be
+a good thing to be able to make some up with just a few tools. if push comes to
+shove you can eyeball things and hope for the best, but this is how I do it.
 
 #### Measuring
 
@@ -115,13 +115,59 @@ The sole exception to this is any spices that are added. Because the amount of
 spice is so miniscule compared to weight of other ingredients, they will be 
 given separately. 
 
-#### Pumpkin Seeds
+#### Dicing
+
+If I do anything to the fruit, I will dice it into very 1/8" (2-3mm) cubes, 
+this allows them to mix well with the seeds and provide a more uniform flavor
+profile. If I am in a rush, I will just toss them in as is and deal with it.
+
+#### Mixing
+
+The vast majority of these are assembled by simply dumping the components into
+a vessle and mixing. I prefer to not make a large amount in advance, but if you
+do I strongly suggest that you keep the seeds separate from the fruit. The 
+moisture from the fruit will tend to be pulled into seeds causing a mushy mix
+the longer they are in contact with each other. 
+
+There are a few recipes in here that use a sunflower butter base, These should
+be mixed up about 12-24 hours in advance of consumption and allowed to firm up.
+
+Finally, the muesili and granola preparations. 
+
+- Preheat the oven to 350°F. 
+- Grease and line a sheet pan with parchment.
+- Combine the grains in a heat-proof bowl.
+- Heat the oil in a pan over med-low heat until it is liquid. 
+- Add the spices, cook until you can smell the spices, count to 3. 
+- Add the sweetenener and let it heat through until it flows like water. 
+- Pour the oil and and sweetener concoction over the grains.
+- Stir until the liquid is absorbed by the grains.
+- Spread the grain mixture on the sheet pan.
+- Bake for 15 minutes.
+- While you are waiting for the grains to toast, measure and mix your seeds.
+- At 15 minutes pull the sheet pan and mix in your seeds.
+- Return the granola to the oven for another 10-30 minutes stirring every
+10 until it reaches a golden brown color.
+- Remove from the oven and mix in fruits, be sure to mound the mixture in small
+clusters.
+- Let it cool completely before you break it up.
+
+### The Ingredients
+
+#### Seeds
 
 I use hulled, raw pumpkin seeds unless otherwise noted. Later on I might get
 into the production, harvest and hulling of these, as I want to be able to 
 create my own supply and test out the flavor differences between varieties of
 pumpkins. But for now, I use bulk, allergen free suppliers on the internet, of
-which there are too many to mention here. 
+which there are too many to mention here. I use raw pumpkin seeds because they
+have a sweeter nuttiness that is a lot like pistachios. When they are toasted
+they tend to be a bit more like peanuts or soybeans, so if that is your thing,
+enjoy, but, I would suggest trying them raw first to see how it hits you.
+
+Most other seeds that I use (sunflower, sesame, flax) will be roasted before
+use. This adds a depth of flavor and contrasts with the creaminess of the
+pepitas and the sweet and tart fruits. 
 
 #### Dried Fruit
 
@@ -154,10 +200,6 @@ for a mixture of sweet or sour fruit.
 - Cranberries
 - Tart Cherries
 - Pineapple
-
-If I prep the fruit, I will dice it into very small cubes (1/8", 2-3mm), this
-allows them to mix well with the seeds and provide a more uniform flavor
-profile. If I am in a rush, I will just toss them in as is and deal with it.
 
 #### Grains
 
