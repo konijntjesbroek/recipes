@@ -201,6 +201,43 @@ for a mixture of sweet or sour fruit.
 - Tart Cherries
 - Pineapple
 
+#### Cacao Nibs
+
+These are a bit dicey and a good bit expensive. The flavor profile is somewhere
+between a dry red wine and very dark chocolate. They tend to have a drying 
+effect on the mouth. The style i get are already crushed into uniform pieces
+just smaller than GrapeNuts™. They contain a touch of caffeine and good bit of
+fat. No matter how well they are picked over, I seem to always get a couple of
+bits of the husk included with the nibs. This is similar to getting a touch of
+an egg or nut shell in the middle of your dish, so if that puts you off you
+might want to try dusting in cocoa powder instead. 
+Cocao powder is the solids after the butter has been leeched out. The process
+significantly reduces the fat and calories. Raw cacao nibs are approximately
+42% fat where raw cocoa powder is 14%. In order to replace this, ideally, you
+would add in the amount of cocoa butter. So if the recipe calls for 28g of 
+nibs, this would include put us at around 12 grams of that being fat. Now with
+the application of a little bit of algebra we get:
+
+    .14p + b = 12 -- The amount of fat in the powder + butter give nib fat
+    p + b = 28    -- The amount of powder + butter is the total weight of nibs
+    b = 12 - .14p -- The butter weight is the nib fat - the fat left in powder
+    (12 - .14p) + p = 28  -- the butter weight as solved + powder is nib weight
+    12 + .86p = 28 -- Combine the powder weights
+    .86p = 28 - 12 -- Subtract the fat weight to get the powder weight
+    .86p = 16
+    p = 16/.86     -- Compute the powder wight from the solids weigh
+    p = 18.60
+    18.60 + b = 28 -- Powder weight plus butter is total nib weight
+    b = 28 - 18.60 -- Subtract the powder weight
+    b = 9.4
+
+
+The best application for this approach is in
+the bars or granola applications where there is a medium that can suspend the
+cocoa. 
+
+
+=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
 #### Grains
 
 ### The Recipes
