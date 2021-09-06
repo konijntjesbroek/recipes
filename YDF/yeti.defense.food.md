@@ -211,31 +211,51 @@ fat. No matter how well they are picked over, I seem to always get a couple of
 bits of the husk included with the nibs. This is similar to getting a touch of
 an egg or nut shell in the middle of your dish, so if that puts you off you
 might want to try dusting in cocoa powder instead. 
+
 Cocao powder is the solids after the butter has been leeched out. The process
 significantly reduces the fat and calories. Raw cacao nibs are approximately
 42% fat where raw cocoa powder is 14%. In order to replace this, ideally, you
-would add in the amount of cocoa butter. So if the recipe calls for 28g of 
-nibs, this would include put us at around 12 grams of that being fat. Now with
-the application of a little bit of algebra we get:
+would add in the amount of cocoa butter, but other pure fats would also work. I
+would mention that melting point of cocoa butter is around 100°F, so ghee, 
+coconut oil, or any oils liquid at room temperature will alter the composition.
+The best application for this approach is in the bars or granola applications 
+where there is a medium that can suspend the cocoa and additonal fats. 
 
-    .14p + b = 12 -- The amount of fat in the powder + butter give nib fat
-    p + b = 28    -- The amount of powder + butter is the total weight of nibs
-    b = 12 - .14p -- The butter weight is the nib fat - the fat left in powder
-    (12 - .14p) + p = 28  -- the butter weight as solved + powder is nib weight
-    12 + .86p = 28 -- Combine the powder weights
-    .86p = 28 - 12 -- Subtract the fat weight to get the powder weight
+So if the recipe calls for 28g of nibs, this would include put us at around 12 
+grams of that being fat. Now with the application of a little bit of algebra we
+get the following equations:
+
+    .14p + b = 12 
+      -- Percentage of fat in the powder, multiplied by the weight of the powder
+         added to the wight of the butter should equal amount of fat in the nibs
+    
+    p + b = 28
+      -- The weight of the cocoa powder and the weight of the cocoa butter
+         should equal the total weight of the nibs
+
+This allows us to calulate the amount of added fat we need to balance out what
+is lost by using cocoa powder instead of the crushed nibs. Now we just need to
+solve the system of euations:
+
+    b = 12 - .14p         -- Butter weight = nib fat - the fat left in powder
+    (12 - .14p) + p = 28  -- Butter weight + powder weight = nib weight
+    12 + .86p = 28        -- Remove powder fats from the powder weight
+    .86p = 28 - 12        -- Remove nib fat from the nib weight
     .86p = 16
-    p = 16/.86     -- Compute the powder wight from the solids weigh
+    p = 16/.86            -- Solve for powder weight
     p = 18.60
-    18.60 + b = 28 -- Powder weight plus butter is total nib weight
-    b = 28 - 18.60 -- Subtract the powder weight
+    18.60 + b = 28        -- Insert powder weight into the simpler equation
+    b = 28 - 18.60        -- Solve for butter weight
     b = 9.4
 
-
-The best application for this approach is in
-the bars or granola applications where there is a medium that can suspend the
-cocoa. 
-
+If you want to want to keep the same nutrition but use cocoa powder in this
+instance, you would need to add 18.6g or so of cocoa powder and 9.4 or so of 
+cocoa butter. This is likely only of interest to folks that are needing to make
+sure that they are hitting specific caloric goals and densities and are using
+these for longterm preperations (long distance backpacking trips or dietary
+concerns), but as I happen to fall into one of those categories and had to do
+the math anyway, I figured I would share in case others needed it struggle with
+equation setups as much as I do.
 
 === --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
 #### Grains
