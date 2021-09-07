@@ -152,6 +152,8 @@ Finally, the muesili and granola preparations.
 clusters.
 - Let it cool completely before you break it up.
 
+----
+
 ### The Ingredients
 
 #### Seeds
@@ -238,12 +240,14 @@ is lost by using cocoa powder instead of the crushed nibs. Now we just need to
 solve the system of euations:
 
     b = 12 - .14p         -- Butter weight = nib fat - the fat left in powder
+
     (12 - .14p) + p = 28  -- Butter weight + powder weight = nib weight
     12 + .86p = 28        -- Remove powder fats from the powder weight
     .86p = 28 - 12        -- Remove nib fat from the nib weight
     .86p = 16
     p = 16/.86            -- Solve for powder weight
     p = 18.60
+    
     18.60 + b = 28        -- Insert powder weight into the simpler equation
     b = 28 - 18.60        -- Solve for butter weight
     b = 9.4
@@ -257,9 +261,10 @@ concerns), but as I happen to fall into one of those categories and had to do
 the math anyway, I figured I would share in case others needed it struggle with
 equation setups as much as I do.
 
-=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
 #### Grains
 
+__Oats__:
+=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
 ### The Recipes
 
 #### YDF #1:
