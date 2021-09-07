@@ -152,6 +152,31 @@ Finally, the muesili and granola preparations.
 clusters.
 - Let it cool completely before you break it up.
 
+#### Nixtamalization
+
+I was torn about whether or not to put this in here. Strictly speaking, it 
+isn't really a part of YDF; however, I mention hominy in the corn section and I
+guess there are few enough guides out there for how the process works that one
+more won't be too oppressive:
+
+- Weigh out your corn. add it to a pot that is at least 3-4 times larger than
+the volume of corn. Make sure the pot is __*NON-REACTIVE*__!
+- Weigh 1% of your corn's weight in cal. (1g of cal for every 100g of corn)
+- Make a slurry out of the cal.
+- Pour the slurry over the corn.
+- Add water to the pot to cover the corn by 2-3 inches.
+- Bring to a boil.
+- Reduce heat and continue to cook until the skins have loosened and the kernel
+is toothsome but not crunchy when bitten. I rinse my kernels extensively prior
+to testing them. I am not sure if this is needed, but not a big fan of chemical
+burns so I figure the 30 second rinse is worth the time.
+- Let the corn sit in the alkali solution for 8-12 hours.
+- Rinse the hominy, (it's not corn anymore). Take off about 1/2 - 3/4 of the 
+skins. 
+
+After nixtamalization, the corn will be ~1.5 - 2 times the size and the 
+chemical make up has transformed to release a large amount of nutrients.
+
 ----
 
 ### The Ingredients
@@ -264,7 +289,61 @@ equation setups as much as I do.
 #### Grains
 
 __Oats__:
-=== --- === --- === --- === --- === --- === --- === --- === --- === --- === --- 
+
+I use old fashioned rolled oats in my preparations. This provides the most 
+consistent results. Quick cook oatmeal (not instant) can also be used in this
+method, but keep a very close eye on it when toasting they are rolled much
+thinner than old fashioned oats and will burn very quickly. If I have to use 
+quick oats I normally run on medium-low heats and it will take between 1/3 to
+1/2 the time of old fashioned oats. At this time, I have not tried whole oats,
+though that is on tap for this winter. I typically omit any sort of grains from
+late spring until the weather drops into the 70s, which allows me to use the 
+stove as little as possible. 
+
+The most common way I will add oats is to make up a granola (see method above).
+I also will do a psuedo granolo with them some times in the winter if I don't 
+want to eat granola for a week at a time. To start, heat up some oil, usually 
+coconut, in a small pan (mine is a 1.5qt saucepan from target) over medium-high
+heat. Next, add some spices and wait until things smell amazing. Toss in the 
+oats and start stirring or shaking the pan. The oats will start to smell nutty
+and change to golden in color, Pull them off, the heat will continue to cook 
+them and if you wait until they look toated, they will burn before they can
+cool.
+
+__Corn__:
+
+This is going to be using dent corn, not sweet corn. This is the hard stuff 
+that is ground down to make corn meal, grits, and cornstarch. It is not hard to
+come by online, or if you have farmer's market in your area. Ask around someone
+will likely be able to point you in the right direction. I use this for a few
+reasons. First, it is easier to store long term. Once you crack a grain, its 
+shelf life drops dramatically and oxidation begins immediately. Second, it
+affords some peace of mind. I am not a fan of GMO stuffs, and the farms that I
+buy from are using heirloom varietals that haven't been tinkered with so much.
+Third, it tastes better. Different corn species taste different and behave 
+differently when processed.
+
+Hominy is nixtamalized corn, you can get it in a can in most grocery stores,
+dried (pazole) in reasonably stocked grocery stores or international markets, 
+or make it yourself. This stuff is amazing and tasty. It is what makes corn
+tortillas, tameles, fritos, and corn nuts (reasonable substitute for fried 
+hominy). 
+
+Grits/corn meal/polenta is ground corn. I prefer to use hominy grits as they 
+are beter tasting and more nutritious, but they have become rather hard to find
+if you don't want to make your own.
+
+Parched corn/popped corn are the same thing depending on the variety of corn 
+you use. If you are using a high moisture, flint hulled corn, it will build up
+enough pressure to rapidly expand and gelatinize the starches making the 
+glorious movie snack we all love. If you do the same thing with a variety that
+is either lower in moisture or has a thinner skin (most dent corn falls into 
+this category), It will still gelatinize, but with less velocity so you end up
+with a denser cruchier product. This will be akin to the mostly popped kernels
+at the bottom of the bucket.
+
+----
+
 ### The Recipes
 
 #### YDF #1:
