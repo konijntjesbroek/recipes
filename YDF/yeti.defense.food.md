@@ -105,15 +105,35 @@ shove you can eyeball things and hope for the best, but this is how I do it.
 
 #### Measuring
 
-In the recipes, I use part measurments. The base 'serving size' which I use to
-list the nutritional value is for the part. If for example I give a serving
-size of 28g, that means that 1 part is equal to 28g, and any other measurement
-is a multiple of that so if a recipe has 1 part ingredient a and 2 parts of
-ingredient b with a serving size of 20g, the total weight for a single serving
-would be 60g. This is to save on having to do division from the final product.
-The sole exception to this is any spices that are added. Because the amount of
-spice is so miniscule compared to weight of other ingredients, they will be 
-given separately. 
+In the recipes, I use part measurments. At the tail of the recipe you will see 
+a couple of lines that look like this:
+
+    1 part == <mass>
+    E: ### | F: ## | C: ## | P: ###
+    
+    Na: ### | K:  ### | Zn:  ### | Ca: #### | Fe: ### 
+    Mg: ### | Ma: ###
+    
+    A: ### | B6: ### | B12: ### | C: ### | D: #### | E: ###
+    K: ####
+
+The base 'serving size' which I use to list the nutritional value is for a 
+single part. If for example I give a part size of 28g, that means  in a recipe
+calling for 1 part of ingredients A and B, and 2 parts of ingredient C, the 
+total weight of that serving would be:
+
+    28g + 28g + 2(28g) 
+    112g
+
+This is to save on having to do division from the final product. The sole 
+exception to this is any spices that are added. Because the amount of spice is
+so miniscule compared to weight of other ingredients, they will be given 
+separately. 
+
+Directly below the the part size, you will find the macronutrients and total
+energy provided. Energy is listed in kCals and each of the macros are listed in
+grams. Below that is listed any significant mineral content provided by the
+listing. Finally, we will toss in any vitamin compounds included.
 
 #### Dicing
 
@@ -346,21 +366,35 @@ at the bottom of the bucket.
 
 ### The Recipes
 
-#### YDF #1:
-    28 g Pumpkin seeds
-    28 g Dried black currants
+#### Ol' Grand Dad
+
+This is the grandaddy of 'em all. It is still one of my favorite flavor 
+combinations and is dead simple to make. If you cannot find black currants, any
+raisin or zante current is ok.  No, on second thought, they aren't ok. They 
+take away the beautiful sparkle provided by black currants. There are some
+later varieties that make these work. 
+
+    part counts | Ingredient
+        1           Pumpkin seeds
+        1           Died black currants
     
     Per serving:
-        F: 6
-        C: 36
-        P: 6
-        E: 205
+        1 part == 28g
+        E: 240 | F: 14.08 | C: 25 | P: 9.55
+
+        Na: 26.824 | K: 240.32 | Fe: 2.31 | Ca: 37.92 | Zn: 2.24
+        Mg: 25.39
+
+        A: 36.4 | C: 1926.4 | 
+    
 
 #### YDF #2:
+
     28 g Pumpkin seeds
     28 g Dried cranberries
     14 g Dried black currants
     
+    Part serving size: 14g
     Per serving:
         F: 6.5
         C: 46
